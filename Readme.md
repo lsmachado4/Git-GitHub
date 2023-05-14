@@ -59,7 +59,7 @@ git branch
 git merge <nome_da_branch>
 ```
 
-br>
+<br>
 <br>
 <br>
 <br>
